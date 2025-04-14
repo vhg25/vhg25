@@ -1,4 +1,5 @@
-## Hi there 👋
+## hi, i'm tori
+<i>she/her</i>
 
 <!--
 **vhg25/vhg25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🦠 public health researcher turned 📚 librarian
+<br>
+🤓 studying library and information science at 🐲 drexel university
+<br>
+👩‍💻 kind of know how to code... but honestly 🤷‍♀️ not really
