@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 🤓 studying library and information science at 🐲 drexel university
 <br>
 👩‍💻 kind of know how to code... but honestly 🤷‍♀️ not really
+
+avid tumblr user--check out themes by [sanographix](https://github.com/sanographix/tumblr) and [olleota](https://github.com/olleota/themes)
